@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Molka Oleksandra" << endl;
+    cout << "Initial layout feature" << endl;
     return 0;
 }
