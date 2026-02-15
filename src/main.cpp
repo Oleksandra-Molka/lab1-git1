@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Initial layout feature - version 2 after review" << endl;
+    cout << "Develop conflict version" << endl;
     return 0;
 }
