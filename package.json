@@ -1,6 +1,7 @@
 {
   "name": "lab1-git1",
   "version": "1.0.0",
+  "type": "module",
   "description": "\\# lab1-git1",
   "main": "index.js",
   "scripts": {
@@ -15,7 +16,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/Oleksandra-Molka/lab1-git1/issues"
   },
