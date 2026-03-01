@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/Oleksandra-Molka/lab1-git1#readme",
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@vitest/coverage-v8": "^4.0.18",
     "eslint": "^10.0.2",
     "vitest": "^4.0.18"
