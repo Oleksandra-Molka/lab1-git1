@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Molka Oleksandra" << endl;
+    cout << "Feature conflict version" << endl;
     return 0;
 }
