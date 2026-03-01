@@ -4,16 +4,16 @@
   "type": "module",
   "description": "\\# lab1-git1",
   "main": "index.js",
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "lint": "eslint . --fix",
-  "test": "vitest",
-  "test:run": "vitest run",
-  "test:coverage": "vitest run --coverage",
-  "test:unit": "vitest run"
-},
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --fix",
+    "test": "vitest",
+    "test:run": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:unit": "vitest run"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Oleksandra-Molka/lab1-git1.git"
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/Oleksandra-Molka/lab1-git1#readme",
   "devDependencies": {
     "@vitest/coverage-v8": "^4.0.18",
+    "eslint": "^10.0.2",
     "vitest": "^4.0.18"
   }
 }
