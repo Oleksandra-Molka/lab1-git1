@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - develop
+      - feature/lab4-actions
   pull_request:
     branches:
       - main
